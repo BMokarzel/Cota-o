@@ -9,8 +9,8 @@ import (
 
 	//"time"
 
-	service "github.com/BMokarzel/Cota-o/Service"
-	"github.com/BMokarzel/Cota-o/database"
+	service "github.com/BMokarzel/quote/Service"
+	"github.com/BMokarzel/quote/database"
 )
 
 func main() {
